@@ -74,7 +74,7 @@ The advertising relationship is correlational, and forecasts beyond the observed
 
 The complete report contains the OSEMN workflow, analytical explanations, visualizations, and business recommendations.
 
-[View Full BrightThreads Case Study](BrightThreads_Data_Analytics_Case_Study(1).pdf)
+[View Full BrightThreads Case Study](BrightThreads_Data_Analytics_Case_Study.pdf)
 
 ## Project Context
 
